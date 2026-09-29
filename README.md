@@ -54,4 +54,4 @@ O programa utiliza as taxas fornecidas pela API e não considera eventuais tarif
 
 ## Autor
 
-Desenvolvido por Cutcharro.
+Desenvolvido por Ernani Luiz.
